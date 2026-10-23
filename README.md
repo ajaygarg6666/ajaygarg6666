@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:164e63,100:2563eb&text=Ajay%20Garg&fontColor=ffffff&fontSize=65&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%2FML&descAlignY=65&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:164e63,100:2563eb&text=Ajay%20Garg&fontColor=ffffff&fontSize=65&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20&descAlignY=65&descSize=18&animation=fadeIn" width="100%" />
 
 # Building software that solves real problems.
 
