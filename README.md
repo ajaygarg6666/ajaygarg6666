@@ -7,7 +7,7 @@
 
 **Computer Engineering @ Thapar University**
 
-I build full-stack applications, explore applied AI/ML, and work on
+I build full-stack applications, explore AI/ML, and work on
 software that connects intelligent systems with real-world use cases.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ajaygarg6666-181717?style=for-the-badge&logo=github)](https://github.com/ajaygarg6666)
